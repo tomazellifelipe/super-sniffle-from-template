@@ -1,0 +1,15 @@
+{
+  "name": "super-sniffle-from-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomazellifelipe/super-sniffle-from-template.git",
+  "author": "Felipe Tomazelli",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  }
+}
