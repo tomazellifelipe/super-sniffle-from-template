@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.2.0...v1.2.1) (2022-08-01)
+
+
+### Bug Fixes
+
+* remove semicolon from print ([cf5b958](https://github.com/tomazellifelipe/super-sniffle-from-template/commit/cf5b9580afd4879e4feb6a93767737740bcce299))
+
 ## [1.2.0](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.1.1...v1.2.0) (2022-08-01)
 
 
