@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.2.1...v1.3.0) (2022-08-02)
+
+
+### Features
+
+* add commitlint and husky ([382bde3](https://github.com/tomazellifelipe/super-sniffle-from-template/commit/382bde388052751ac457331578517f9d7d89fac0))
+
 ### [1.2.1](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.2.0...v1.2.1) (2022-08-01)
 
 
