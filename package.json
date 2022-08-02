@@ -14,6 +14,7 @@
   },
   "scripts": {
     "postinstall": "husky install",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin $(git branch --show-current)",
+    "echo": "echo $(git branch --show-current)"
   }
 }
