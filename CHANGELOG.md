@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.4.0...v1.4.1) (2022-08-02)
+
+
+### Bug Fixes
+
+* should use yarn for hook ([6673f64](https://github.com/tomazellifelipe/super-sniffle-from-template/commit/6673f64e0a294fdb010d53ae76d982fc359327e4))
+
 ## [1.4.0](https://github.com/tomazellifelipe/super-sniffle-from-template/compare/v1.3.0...v1.4.0) (2022-08-02)
 
 
